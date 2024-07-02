@@ -36,3 +36,24 @@ border-right: 10px dotted yellow;
     padding: 30px;
     border-radius: 10px;
 }
+.h1prop{
+    background-color: black;
+    color: aqua;
+    display: block;
+}
+
+.divvy{
+  height: 100px;  
+  width: 100px;
+  display: block;
+}
+
+#reddiv{
+background-color: red;
+}
+#yellowdiv{
+background-color: yellow;
+}
+#blackdiv{
+background-color: black;
+}
