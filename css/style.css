@@ -1,4 +1,38 @@
 .hello{
 color: red;
 font-size: x-large;
+text-decoration: underline;
+}
+body{
+    font-family: "Playwrite ES Deco", cursive;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.bor{
+    color: white;
+    background-color: black;
+    padding-left: 35px;
+    margin: 20px;
+}
+#boxborder{
+width: 100px;
+height: 100px;
+background-color: black;
+border-bottom: 10px solid red;
+border-left: 10px solid purple;
+border-top: 10px solid purple;
+border-right: 10px dotted yellow;
+}
+
+#solo-card{
+    width: 200px;
+    height: 400px;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    border-radius: 10px;
 }
