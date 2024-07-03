@@ -57,3 +57,10 @@ background-color: yellow;
 #blackdiv{
 background-color: black;
 }
+.nummy{
+    color: white;
+    background-color: chocolate;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
