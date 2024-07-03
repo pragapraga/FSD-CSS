@@ -67,3 +67,25 @@ background-color: black;
 #name:focus{
 outline: red solid 1px;
 }
+.discard{
+    background-color: black;
+    width: 200px;
+    color: white;
+    padding: 10px;
+}
+.discard__btn{
+    background-color: transparent;
+    color: white;
+    border: none;
+    border: 2px solid whitesmoke;
+}
+.discard__btn:hover{
+    background-color:yellowgreen;
+    border: 2px solid black;
+    color: black;
+}
+.discard__btn--red{
+    background-color:yellowgreen;
+    border: 2px solid black;
+    color: red;
+}
