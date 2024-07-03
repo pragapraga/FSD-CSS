@@ -64,3 +64,6 @@ background-color: black;
     display: inline-block;
     margin: 5px;
 }
+#name:focus{
+outline: red solid 1px;
+}
